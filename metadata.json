@@ -1,0 +1,6 @@
+{
+  "name": "ApexMail - Secure SMTP Mailing System",
+  "description": "Production-ready SMTP mailing platform with live sandboxed preview, recipient list validation, queue management, and secure server-side Nodemailer delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
